@@ -1,5 +1,5 @@
 @server = https://nbdyknows-bookish-space-pancake-p5x559jp94v365wp-8080.preview.app.github.dev
-@emp={{server}}/api/employees
+@emp={{server}}/api/emps
 ###
 GET {{emp}}
 ###
